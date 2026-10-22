@@ -40,7 +40,7 @@ addNumbers(4, 8, 12)
 
 ## {Step 3 - Try expressions as arguments}
 
-Put the call inside a `||loops:repeat||` loop and send random numbers as arguments.
+Put the call inside a `||loops:repeat||` loop. Open **Math**, find **pick random 0 to 10**, and put a random-number block into each of the three argument slots. Set each random range to **1 to 10**.
 
 This shows that arguments do not have to be fixed values. They can be expressions that are evaluated when the function is called.
 
@@ -50,6 +50,10 @@ This shows that arguments do not have to be fixed values. They can be expression
 for (let index = 0; index < 3; index++) {
     addNumbers(randint(1, 10), randint(1, 10), randint(1, 10))
 }
+```
+
+```ghost
+randint(1, 10)
 ```
 
 ## {Step 4 - Start a level system}
