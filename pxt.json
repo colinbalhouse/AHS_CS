@@ -1,0 +1,28 @@
+{
+  "name": "cs20-unit4-skillmap",
+  "version": "0.0.1",
+  "description": "CS20 Unit 4 skillmap: functions, parameters, return values, searching, and a build challenge.",
+  "dependencies": {
+    "device": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md",
+    "skillmap.md",
+    "tutorials/core/01-functions.md",
+    "tutorials/core/02-parameters.md",
+    "tutorials/core/03-return-values.md",
+    "tutorials/core/04-sequential-search.md",
+    "tutorials/core/05-build-challenge.md",
+    "tutorials/extensions/01-binary-search.md"
+  ],
+  "testFiles": [],
+  "targetVersions": {
+    "target": "1.0.16",
+    "targetId": "arcade"
+  },
+  "supportedTargets": [
+    "arcade"
+  ],
+  "preferredEditor": "tsprj"
+}
