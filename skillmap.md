@@ -16,7 +16,7 @@
 * tags: functions, refactoring, code reuse
 * allowcodecarryover: false
 * next: u4-parameters
-* url: https://github.com/REPLACE_OWNER/REPLACE_REPO/tutorials/core/01-functions
+* url: https://github.com/colinbalhouse/AHS_CS/tutorials/core/01-functions
 
 ### u4-parameters
 
@@ -26,7 +26,7 @@
 * tags: functions, parameters, arguments, conditionals
 * allowcodecarryover: false
 * next: u4-return-values
-* url: https://github.com/REPLACE_OWNER/REPLACE_REPO/tutorials/core/02-parameters
+* url: https://github.com/colinbalhouse/AHS_CS/tutorials/core/02-parameters
 
 ### u4-return-values
 
@@ -36,7 +36,7 @@
 * tags: functions, return values, expressions
 * allowcodecarryover: false
 * next: u4-search
-* url: https://github.com/REPLACE_OWNER/REPLACE_REPO/tutorials/core/03-return-values
+* url: https://github.com/colinbalhouse/AHS_CS/tutorials/core/03-return-values
 
 ### u4-search
 
@@ -46,7 +46,7 @@
 * tags: arrays, loops, sequential search, functions
 * allowcodecarryover: false
 * next: u4-project
-* url: https://github.com/REPLACE_OWNER/REPLACE_REPO/tutorials/core/04-sequential-search
+* url: https://github.com/colinbalhouse/AHS_CS/tutorials/core/04-sequential-search
 
 ### u4-project
 
@@ -55,7 +55,7 @@
 * description: Plan and build a larger Arcade game that uses functions meaningfully with earlier programming skills.
 * tags: project, functions, arrays, loops, conditionals
 * allowcodecarryover: false
-* url: https://github.com/REPLACE_OWNER/REPLACE_REPO/tutorials/core/05-build-challenge
+* url: https://github.com/colinbalhouse/AHS_CS/tutorials/core/05-build-challenge
 
 ## extension
 
@@ -69,4 +69,4 @@
 * description: Use a sorted collection and repeatedly cut the search area in half.
 * tags: extension, binary search, algorithms
 * allowcodecarryover: false
-* url: https://github.com/REPLACE_OWNER/REPLACE_REPO/tutorials/extensions/01-binary-search
+* url: https://github.com/colinbalhouse/AHS_CS/tutorials/extensions/01-binary-search
